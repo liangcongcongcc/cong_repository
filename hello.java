@@ -1,2 +1,3 @@
-public class hello{
+public class a{
+	
 }
