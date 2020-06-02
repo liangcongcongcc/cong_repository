@@ -1,0 +1,7 @@
+	public class chuyin{
+		public static void main(String[]arge)
+		String a ="Git好好用";
+		system out print（a）;
+	
+}
+}
